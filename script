@@ -1,0 +1,28 @@
+#read main data
+mydata <- read.csv("D:\\aammarr.ahmed\\uni\\Sem-8\\DS\\Random Forest\\dataset_.csv")
++
+
+#read test data
+testdata <- read.csv("D:\\aammarr.ahmed\\uni\\Sem-8\\DS\\Random Forest\\testdata_.csv")
+
+
+#show main data
+mydata
+
+#show test data
+testdata
+
+#
+library(randomForest)
+
+#
+library(party)
+
+#
+mymodel <- randomForest(mydata$Profit ~ ., data=mydata)
+prediction <- predict(mymodel, data2= testdata)
+
+importance(mymodel)
+
+varImpPlot(mymodel)
+

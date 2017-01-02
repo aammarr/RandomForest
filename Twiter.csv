@@ -1,0 +1,23 @@
+Date,Tweet,No of Favrts,No of RTs,No of Quotes,No of  #tags used,Effection
+week1,25,2365,536,35,3,yes
+week2,96,1563,123,26,2,yes
+week3,14,3651,159,24,4,yes
+week4,61,1255,147,28,2,no
+week5,35,236,432,58,5,yes
+week6,26,144,165,72,4,no
+week7,23,3641,951,41,3,yes
+week8,22,213,123,35,3,no
+week9,18,239,369,26,2,no
+week10,9,1165,332,24,4,yes
+week11,12,1469,458,28,2,no
+week12,21,7569,236,58,5,yes
+week13,21,7569,236,72,4,yes
+week14,30,5698,369,41,3,yes
+week15,45,7536,458,35,3,yes
+week16,25,2365,415,26,2,no
+week17,21,1452,315,24,4,yes
+week18,18,125,298,28,2,no
+week19,17,362,741,58,5,no
+week20,35,999,938,72,4,no
+week21,30,1200,296,72,3,yes
+week22,41,732,462,41,5,no
